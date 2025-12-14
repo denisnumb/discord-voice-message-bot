@@ -1,0 +1,2 @@
+py_cord @ git+https://github.com/Pycord-Development/pycord
+pydub==0.25.1
