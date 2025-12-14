@@ -1,4 +1,4 @@
-# discord-voice-message
+# Discord voice message bot
 
 Discord Bot that implements the function of recording voice messages via the voice channel
 
